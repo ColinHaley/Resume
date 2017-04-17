@@ -4,7 +4,7 @@
 ---
 
 ## WORK EXPERIENCE
-<table border="0" style="border-spacing:80px 0">
+<table border="0" style="border-spacing:80px 0; border-top:none; border-left:none">
   <tr>
     <td><b>Susquehanna International Group</b></td>
     <td>Production Engineer</td>

@@ -119,20 +119,46 @@ I have led and participated many projects in my three years in the position:
 ## SKILLSET
 <table border="0" style="border-spacing:100px 0;">
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>GigaSpaces</td>
+    <td>Nagios</td>
+    <td>Ganglia</td>
+    <td>FPGA Cards</td>
+    <td>Systems Engineering</td>
+  </tr>
+  <tr>
+    <td>Powershell</td>
+    <td>Enterprise Monitoring</td>
+    <td>Grafana</td>
+    <td>InfluxDB</td>
+    <td>MongoDB</td>
+  </tr>
+    <tr>
+    <td>C# .NET</td>
+    <td>Java</td>
+    <td>Python</td>
+    <td>Bash</td>
+    <td>HTML, CSS, JavaScript</td>
+  </tr>
+  <tr>
+    <td>Desktop Support</td>
+    <td>Citrix XenApp</td>
+    <td>Active Directory</td>
+    <td>SAP QM</td>
+    <td>VMWare</td>
+  </tr>
+  <tr>
+    <td>LIMS SampleManager</td>
+    <td>RSA ACE Console</td>
+    <td>Toad Client</td>
+    <td>MS Office Suite</td>
+    <td>Chef</td>
+  </tr>
+  <tr>
+    <td>Jenkins</td>
+    <td>Puppet</td>
+    <td>Ansible</td>
+    <td>Vagrant</td>
     <td></td>
   </tr>
 </table>
 
-<!--
-<table border="0" style="border-spacing:80px 0">
-  <tr>
-    <td>Month</td>
-    <td>Savings</td>
-    <td>Savings</td>
-  </tr>
-</table>
-	-->

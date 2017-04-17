@@ -11,7 +11,6 @@
     <td>Dec. 2015 - Present</td>
   </tr>
 </table>
-
 +
 +
 +

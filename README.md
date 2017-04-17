@@ -16,10 +16,18 @@
   </tr>
 </table>
 
-+
-+
-+
-+
+Due to the proprietary nature of my position at SIG, I am unable to elaborate on my primary responsibilities further than a brief summary:
+
++ Manage changes and upgrades to Production and Development Nagios environments, including implementation of client requests, testing version upgrades, and ongoing maintenance.
++ Maintain and deploy configuration changes for low level multicast monitoring agents and engines.
++ Interface with other teams to assist in consuming monitoring statistics and reports.
++ Control Ganglia environment, including federation and consumption by other vertical teams.
++ Primary support and engineering staff for trading-critical GigaSpaces platform both in Production and Development environments.
++ Participate and coordinate major version upgrades in GigaSpaces environments for all business units.
++ Work directly with developers to provide a more robust development environment and usable hardware.
++ Coordinate large qtree migrations and maintenance for 2,400+ servers.
++ Create scripts and automation tasks to assist other vertical teams with using primary platforms.
++ Support rotation for "big data" workflows and processing.
 
 <table border="0" style="border-spacing:100px 0;">
   <tr>
@@ -29,10 +37,26 @@
   </tr>
 </table>
 
-+
-+
-+
-+
+I am a member of a rapidly evolving team of devops/support staff. I work side by side with application developers and traders to provide trauma support and fixes to enable near flawless up time for all clients.
+
+I develop, maintain and update tools to proactively monitor the global environment (including non-trade spaces) to predict failure through custom built and deployed systems. I also assist in managing the Active Directory group memberships. A very large amount of my development time has been spent working on automation and time saving efforts to decrease lengthy processes and workflows. A few such examples:
+
++ Reduce an equipment reclaim workflow from ~60 minutes per machine to 30 seconds.
++ Standardized the Powershell dependency packages for Enterprise User Services
++ Created reports for use by support staff.
++ Automated maintenance and notification for local databases.
++ Created dozens of powershell functions to more easily query against the environment and assess risks.
+
+
+I have led and participated many projects in my three years in the position:
++ Designed a full multi-database SQL Server Schema from ground up to store logfiles, reports and metrics queried from the global environment.
++ Designed a reporting aggregation platform and predictive failure and statistic tool. This tool aggregates the majority of the data from the aforementioned SQL Database to an easily readable format and integrates with many other systems.
++ Cleanup of IDF Rooms
++ Centralized the Enterprise User Services Powershell script environment and migrated it to a source control system.
++ Held powershell training sessions for organization-wide attendance.
++ Participated in a high profile project to provide a real time streaming solution to trading and corporate research groups.
++ Created a rolling backup solution for trading and developer client machines using USMT and WSMAN and a proprietary tool written by my team.
++ Large equipment moves involving coordination from multiple groups
 
 <table border="0" style="border-spacing:100px 0;">
   <tr>
@@ -58,10 +82,20 @@
   </tr>
 </table>
 
-+
-+
-+
-+
++	Receive phone calls and e-mails requesting end-user support.
++	Provide first-level support for approximately 2,500 users.
++	Escalate tickets to the appropriate parties as needed.
++	Track and manage all open cases in the SMART Ticketing System.
++	Perform basic software testing for compatibility.
++	Handle roll-out of new platforms and systems to recently acquired companies.
++	Maintain and develop Sharepoint teamsite with documentation of any issues encountered.
++	Took a lead role in training new Service Desk Employees.
++	Developed a standard training platform for on-boarding.
++	Install and test various pieces of software on specially configured Windows 7 Virtual Machines.
++	Contact secondary testers for more direct testing.
++	Coordinate with team members to update testing sharepoint site.
++	Documented all interaction with users, including installation and removal instructions.
+
 
 <table border="0" style="border-spacing:100px 0;">
   <tr>
@@ -71,10 +105,14 @@
   </tr>
 </table>
 
-+
-+
-+
-+
++	Responsible for all repairs and upgrades on employee machines.
++	Maintained Active Directory infrastructure.
++	Repaired, upgraded, and replaced office hardware.
++	Used Footprints Ticketing System to track repairs and requests from end-users.  
++	Performed as the main contact point for most warranty services from HP, Dell, Apple, and other providers.
++	Provided superior desk-side and remote support for employees.
++	Documented systems for deployment and accepted Q&A from all employees.
+
 
 ---
 

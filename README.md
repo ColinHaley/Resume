@@ -154,7 +154,7 @@ I have led and participated many projects in my three years in the position:
     <td>Puppet</td>
     <td>Ansible</td>
     <td>Vagrant</td>
-    <td></td>
+    <td>AWS Ecosystem</td>
   </tr>
 </table>
 

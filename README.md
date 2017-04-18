@@ -3,10 +3,6 @@
 
 ---
 
-## ABOUT ME
-
----
-
 ## WORK EXPERIENCE
 <table border="0" style="border-spacing:100px 0;">
   <tr>
